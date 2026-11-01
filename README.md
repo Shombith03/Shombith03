@@ -3,7 +3,7 @@
      markdown has no CSS. Then delete this comment.
      ![](banner.png) -->
 <img width="5840" height="3285" alt="pexels-jplenio-3262249" src="https://github.com/user-attachments/assets/6a5b6fb3-824d-4911-89ab-275eacf23cd4" />
-# Shombith Chakraborty
+Shombith Chakraborty
 
 > *"Do not go gentle into that good night."* — Dylan Thomas
 
